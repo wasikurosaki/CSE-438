@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide:
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1kR8jF9JarhCm0gokMZUoPwpW4kN0VgL7fbCtd02lDgs/edit?usp=sharing
 
 Paper title:
 Transfer Learning for Automatic Brain Tumor Classification Using MRI Images
