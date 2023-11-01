@@ -15,7 +15,7 @@ IEEE : Arbane, M., Benlamri, R., Brik, Y., & Djerioui, M. (2021). Transfer Learn
         Automatic Brain Tumor Classification Using MRI Images. IEEE.  
          https://doi.org/10.1109/ihsh51661.2021.9378739
 
-Group Number:
+Group Number: 13
 
 
 Individual Submitter:
